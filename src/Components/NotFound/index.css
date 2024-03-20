@@ -1,0 +1,22 @@
+.notfound-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  justify-content: center;
+  height: 100vh;
+  background-color: #000000;
+}
+.notfound-image {
+  width: 500px;
+}
+.notfound-heading {
+  color: #f1f5f9;
+  font-family: Roboto;
+  font-size: 40px;
+}
+.notfound-para {
+  color: #cbd5e1;
+  font-family: Roboto;
+  font-size: 20px;
+}
